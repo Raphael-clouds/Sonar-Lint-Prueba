@@ -1,9 +1,10 @@
+# practica
 """
 Sistema de Gestion de Pedidos
 Calidad de Software - Version corregida para pytest
 """
-import os
 
+import os
 
 def dividir(a, b):
     if b == 0:
