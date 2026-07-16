@@ -1,4 +1,4 @@
-# practica
+
 """
 Sistema de Gestion de Pedidos
 Calidad de Software - Version corregida para pytest
